@@ -1,0 +1,12 @@
+{
+    "url_validator": {
+        "test_url_protocol": [
+            {"description": "there is no protocol", "data": "www.lightricks.com", "expected_result": false},
+            {"description": "there is protocol", "data": "https://www.lightricks.com", "expected_result": "https"}
+            ],
+        
+        "test_url_domain": [
+            {"description": "there is domain", "data": "https://www.lightricks.com", "expected_result": "www.lightricks.com"}
+            ]
+        }
+}
