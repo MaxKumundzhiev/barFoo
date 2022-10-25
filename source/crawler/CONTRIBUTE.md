@@ -1,5 +1,5 @@
 # Web Crawler
-The system stands for recursive interface for `calculating page rank for a particular page (presneted by URL)`, whereas `recursive` parameter stands for `statically linked pages` to the original url.
+The system stands for recursive interface for `calculating page rank for a particular page (presneted by URL)`.
 
 ## System Design
 ![MVP System Design](assets/systemDesignMVP.png)

@@ -1,5 +1,5 @@
 # barFoo
-The crawler module stands for recursive interface for `calculating page rank for a particular page (presneted by URL)`, whereas `recursive` parameter stands for `statically linked pages` to the original url.
+The crawler module stands for recursive interface for `calculating page rank for a particular page (presneted by URL)`, whereas `depth` parameter stands for the allowed crawling depth.
 
 
 ## System Usage
